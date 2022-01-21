@@ -1,0 +1,15 @@
+{
+    "name": "GameTest",
+    "references": [
+        "GUID:aa6eb4e8a97ca5c478ea8729b84b2563"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
